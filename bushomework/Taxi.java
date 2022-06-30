@@ -1,4 +1,5 @@
 class Taxi {
+    //필드
     int taxiNumber; //택시번호
     int oilVolume;  //주유량
     int nowSpeed = 50; //현재속도
